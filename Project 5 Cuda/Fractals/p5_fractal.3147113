@@ -1,0 +1,34 @@
+Thu Nov 12 00:07:13 CST 2020
+Fractal v2.1
+frames: 64
+width: 512
+compute time: 0.035451 s
+Fractal v2.1
+frames: 128
+width: 512
+compute time: 0.078500 s
+Fractal v2.1
+frames: 64
+width: 1024
+compute time: 0.128938 s
+Fractal v2.1
+frames: 128
+width: 1024
+compute time: 0.286888 s
+Fractal v2.1
+frames: 64
+width: 512
+compute time: 0.023807 s
+Fractal v2.1
+frames: 128
+width: 512
+compute time: 0.052323 s
+Fractal v2.1
+frames: 64
+width: 1024
+compute time: 0.086841 s
+Fractal v2.1
+frames: 128
+width: 1024
+compute time: 0.191675 s
+Thu Nov 12 00:07:36 CST 2020

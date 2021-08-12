@@ -1,0 +1,50 @@
+Thu Nov 12 00:05:36 CST 2020
+Collatz v1.4
+upper bound: 500000
+compute time: 0.001846 s
+longest sequence length: 11394368 elements
+Collatz v1.4
+upper bound: 500000
+compute time: 0.001839 s
+longest sequence length: 11394368 elements
+Collatz v1.4
+upper bound: 500000
+compute time: 0.001866 s
+longest sequence length: 11394368 elements
+Collatz v1.4
+upper bound: 5000000
+compute time: 0.019698 s
+longest sequence length: 11394176 elements
+Collatz v1.4
+upper bound: 5000000
+compute time: 0.019705 s
+longest sequence length: 11394176 elements
+Collatz v1.4
+upper bound: 5000000
+compute time: 0.019700 s
+longest sequence length: 11394176 elements
+Collatz v1.4
+upper bound: 50000000
+compute time: 0.215836 s
+longest sequence length: 11394400 elements
+Collatz v1.4
+upper bound: 50000000
+compute time: 0.215886 s
+longest sequence length: 11394400 elements
+Collatz v1.4
+upper bound: 50000000
+compute time: 0.215741 s
+longest sequence length: 11394400 elements
+Collatz v1.4
+upper bound: 500000000
+compute time: 2.341390 s
+longest sequence length: 11394400 elements
+Collatz v1.4
+upper bound: 500000000
+compute time: 2.341930 s
+longest sequence length: 11394400 elements
+Collatz v1.4
+upper bound: 500000000
+compute time: 2.341160 s
+longest sequence length: 11394400 elements
+Thu Nov 12 00:06:17 CST 2020

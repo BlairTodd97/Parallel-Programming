@@ -1,0 +1,14 @@
+Thu Nov 12 00:10:14 CST 2020
+Ray Tracing v1.0
+frames: 128
+width: 2000
+compute time: 0.061391 s
+Ray Tracing v1.0
+frames: 256
+width: 2000
+compute time: 0.122817 s
+Ray Tracing v1.0
+frames: 128
+width: 4000
+compute time: 0.244487 s
+Thu Nov 12 00:10:27 CST 2020
